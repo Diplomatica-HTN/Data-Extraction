@@ -1,6 +1,6 @@
-# Data Extraction Model 📝🤏🏻
+# Data Extraction Algorithm 📝🤏🏻
 
-Model that extracts relevant information about events internationally, regionally, locally, and globally, based on the user's desired political interests and location. 
+Algorithm that extracts relevant information about events internationally, regionally, locally, and globally, based on the user's desired political interests and location. 
 
  
 # The Model 🤖
